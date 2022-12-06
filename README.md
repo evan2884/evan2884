@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=evan2884&show_icons=true&theme=github)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evan2884&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&theme=github)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=evan2884/evan2884&type=Date)](https://star-history.com/#evan2884/evan2884&Date)
